@@ -9,7 +9,7 @@ Flutter based mobile application which uses machine learning for object detectio
 
 SYSTEM BLOCK DIAGRAM:
 
-<img width="571" alt="1" src="https://user-images.githubusercontent.com/40450381/172193516-05a4b07e-ec94-4e92-a286-8ad63c18e387.PNG">
+![3](https://user-images.githubusercontent.com/40450381/172194591-24fd803a-09d2-4520-87de-cd8cac25ef73.png)
 
 Modules:
 
